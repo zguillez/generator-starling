@@ -1,6 +1,6 @@
 {
   "name": "generator-starling",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Mobile development with Adobe Flash and Starling",
   "license": "MIT",
   "main": "app/index.js",
