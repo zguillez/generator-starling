@@ -3,6 +3,14 @@ module.exports = function(grunt) {
 		pkg: grunt.file.readJSON('package.json'),
 		replace: {
 			package: {
+				src: ['package.json'],
+				overwrite: true,
+				replacements: [{
+					from: /undefined/g,
+					to: 'undefined'
+				}]
+			},
+			actionscript: {
 				src: ['com/ilusionarte/games/undefined/*.as'],
 				overwrite: true,
 				replacements: [{
@@ -42,6 +50,7 @@ module.exports = function(grunt) {
 	grunt.registerTask('default', []);
 	grunt.task.registerTask('init', function(filename) {
 		grunt.config.set('replace.package.replacements.0.to', filename);
+		grunt.config.set('replace.actionscript.replacements.0.to', filename);
 		grunt.config.set('replace.xml.replacements.0.to', filename);
 		grunt.config.set('rename.fla.dest', filename + '.fla');
 		grunt.config.set('rename.xml.dest', filename + '-app.xml');

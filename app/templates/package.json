@@ -1,7 +1,7 @@
 {
-  "name": "starlinghelloworld",
+  "name": "undefined",
   "version": "1.0.0",
-  "description": "Starling helloworld",
+  "description": "Starling App",
   "main": "helloworld.fla",
   "dependencies": {},
   "devDependencies": {
