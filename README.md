@@ -1,5 +1,5 @@
 # generator-starling
-[![Build Status](https://secure.travis-ci.org/zguillez/generator-symfonangular.png?branch=master)](https://travis-ci.org/zguillez/generator-symfonangular) [![Code Climate](https://codeclimate.com/github/zguillez/generator-symfonangular/badges/gpa.svg)](https://codeclimate.com/github/zguillez/generator-symfonangular) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/zguillez/generator-symfonangular/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/zguillez/generator-symfonangular/?branch=master)
+[![Build Status](https://secure.travis-ci.org/zguillez/generator-starling.png?branch=master)](https://travis-ci.org/zguillez/generator-starling) [![Code Climate](https://codeclimate.com/github/zguillez/generator-starling/badges/gpa.svg)](https://codeclimate.com/github/zguillez/generator-starling) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/zguillez/generator-starling/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/zguillez/generator-starling/?branch=master)
 
 > [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
 
@@ -15,7 +15,7 @@
 
 ### Yeoman Generators
 
-To install generator-symfonangular from npm, run:
+To install generator-starling from npm, run:
 
 	npm install -g generator-starling
 
