@@ -10,6 +10,14 @@ module.exports = function(grunt) {
 					to: 'undefined'
 				}]
 			},
+			bower: {
+				src: ['bower.json'],
+				overwrite: true,
+				replacements: [{
+					from: /undefined/g,
+					to: 'undefined'
+				}]
+			},
 			actionscript: {
 				src: ['com/ilusionarte/games/undefined/*.as'],
 				overwrite: true,
