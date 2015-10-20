@@ -24,6 +24,11 @@ module.exports = yeoman.generators.Base.extend({
       this.fs.copy(this.templatePath('bower.json'), this.destinationPath('bower.json'));
       this.fs.copy(this.templatePath('undefined-app.xml'), this.destinationPath('undefined-app.xml'));
       this.fs.copy(this.templatePath('undefined.fla'), this.destinationPath('undefined.fla'));
+    },
+    projectfiles: function() {
+      this.fs.copy(this.templatePath('editorconfig'), this.destinationPath('.editorconfig'));
+      this.fs.copy(this.templatePath('jshintrc'), this.destinationPath('.jshintrc'));
+      this.fs.copy(this.templatePath('bowerrc'), this.destinationPath('.bowerrc'));
     }
   },
   install: function() {
