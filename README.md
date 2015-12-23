@@ -1,10 +1,10 @@
 # generator-starling
 
-[![npm version](https://badge.fury.io/js/generator-base-starling.svg)](https://badge.fury.io/js/generator-base-starling)
-[![Code Climate](http://img.shields.io/codeclimate/github/zguillez/generator-base-starling.svg)](https://codeclimate.com/github/zguillez/generator-base-starling)
-[![Build Status](http://img.shields.io/travis/zguillez/generator-base-starling.svg)](https://travis-ci.org/zguillez/generator-base-starling)
-[![Coverage Status](http://img.shields.io/coveralls/zguillez/generator-base-starling.svg)](https://coveralls.io/r/zguillez/generator-base-starling)
-![](https://reposs.herokuapp.com/?path=zguillez/generator-base-starling)
+[![npm version](https://badge.fury.io/js/generator-starling.svg)](https://badge.fury.io/js/generator-starling)
+[![Code Climate](http://img.shields.io/codeclimate/github/zguillez/generator-starling.svg)](https://codeclimate.com/github/zguillez/generator-starling)
+[![Build Status](http://img.shields.io/travis/zguillez/generator-starling.svg)](https://travis-ci.org/zguillez/generator-starling)
+[![Coverage Status](http://img.shields.io/coveralls/zguillez/generator-starling.svg)](https://coveralls.io/r/zguillez/generator-starling)
+![](https://reposs.herokuapp.com/?path=zguillez/generator-starling)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 > [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
