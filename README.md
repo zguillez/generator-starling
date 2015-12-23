@@ -4,6 +4,7 @@
 [![Code Climate](http://img.shields.io/codeclimate/github/zguillez/generator-starling.svg)](https://codeclimate.com/github/zguillez/generator-starling)
 [![Build Status](http://img.shields.io/travis/zguillez/generator-starling.svg)](https://travis-ci.org/zguillez/generator-starling)
 [![Coverage Status](http://img.shields.io/coveralls/zguillez/generator-starling.svg)](https://coveralls.io/r/zguillez/generator-starling)
+[![Dependency Status](https://gemnasium.com/zguillez/generator-base-angularjs.svg)](https://gemnasium.com/zguillez/generator-starling)
 ![](https://reposs.herokuapp.com/?path=zguillez/generator-starling)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
