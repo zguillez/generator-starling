@@ -1,5 +1,11 @@
 # generator-starling
-[![Build Status](https://secure.travis-ci.org/zguillez/generator-starling.png?branch=master)](https://travis-ci.org/zguillez/generator-starling) [![Code Climate](https://codeclimate.com/github/zguillez/generator-starling/badges/gpa.svg)](https://codeclimate.com/github/zguillez/generator-starling)
+
+[![npm version](https://badge.fury.io/js/generator-base-starling.svg)](https://badge.fury.io/js/generator-base-starling)
+[![Code Climate](http://img.shields.io/codeclimate/github/zguillez/generator-base-starling.svg)](https://codeclimate.com/github/zguillez/generator-base-starling)
+[![Build Status](http://img.shields.io/travis/zguillez/generator-base-starling.svg)](https://travis-ci.org/zguillez/generator-base-starling)
+[![Coverage Status](http://img.shields.io/coveralls/zguillez/generator-base-starling.svg)](https://coveralls.io/r/zguillez/generator-base-starling)
+![](https://reposs.herokuapp.com/?path=zguillez/generator-base-starling)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 > [Zguillez](https://zguillez.io) | Guillermo de la Iglesia
 
