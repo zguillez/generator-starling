@@ -1,8 +1,7 @@
 {
-  "name": "undefined",
-  "version": "1.0.0",
-  "description": "Starling App",
-  "private": true,
-  "dependencies": {},
-  "devDependencies": {}
+	"name": "undefined",
+	"version": "0.1.10",
+	"description": "Starling App",
+	"dependencies": {},
+	"devDependencies": {}
 }
