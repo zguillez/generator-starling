@@ -1,13 +1,8 @@
 {
 	"name": "undefined",
-	"version": "0.1.10",
+	"version": "1.0.0",
 	"description": "Starling App",
-	"author": {
-		"name": "Guillermo de la Iglesia",
-		"email": "mail@zguillez.io",
-		"url": "https://github.com/zguillez"
-	},
-	"main": "helloworld.fla",
+	"main": "undefined.fla",
 	"dependencies": {},
 	"devDependencies": {
 		"grunt": "^0.4.5",
@@ -16,5 +11,7 @@
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
-	}
+	},
+	"author": "zguillez.io",
+	"license": "ISC"
 }

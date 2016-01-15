@@ -20,6 +20,7 @@ module.exports = yeoman.generators.Base.extend({
 			this.fs.copy(this.templatePath('com'), this.destinationPath('com'));
 			this.fs.copy(this.templatePath('Gruntfile.js'), this.destinationPath('Gruntfile.js'));
 			this.fs.copy(this.templatePath('lib'), this.destinationPath('lib'));
+			this.fs.copy(this.templatePath('textures'), this.destinationPath('textures'));
 			this.fs.copy(this.templatePath('package.json'), this.destinationPath('package.json'));
 			this.fs.copy(this.templatePath('bower.json'), this.destinationPath('bower.json'));
 			this.fs.copy(this.templatePath('undefined-app.xml'), this.destinationPath('undefined-app.xml'));

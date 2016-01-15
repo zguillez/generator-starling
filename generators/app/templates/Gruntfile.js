@@ -18,16 +18,18 @@ module.exports = function(grunt) {
 					to: 'undefined'
 				}]
 			},
-			actionscript: {
-				src: ['com/ilusionarte/games/undefined/*.as'],
+			xml: {
+				src: ['undefined-app.xml'],
 				overwrite: true,
 				replacements: [{
 					from: /undefined/g,
 					to: 'undefined'
 				}]
 			},
-			xml: {
-				src: ['undefined-app.xml'],
+			actionscript: {
+				src: ['com/ilusionarte/games/undefined/*.as', 'com/ilusionarte/games/undefined/scenes/*.as',
+					'com/ilusionarte/games/undefined/ui/*.as'
+				],
 				overwrite: true,
 				replacements: [{
 					from: /undefined/g,

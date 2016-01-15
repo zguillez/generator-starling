@@ -1,6 +1,6 @@
 {
 	"name": "generator-starling",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Mobile development with Adobe Flash and Starling",
 	"license": "MIT",
 	"main": "app/index.js",
@@ -24,7 +24,7 @@
 		"starling"
 	],
 	"dependencies": {
-		"yeoman-generator": "^0.22.2",
+		"yeoman-generator": "^0.22.3",
 		"chalk": "^1.1.1",
 		"yosay": "^1.1.0"
 	},
