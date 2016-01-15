@@ -47,11 +47,11 @@ For update npm
 
 	sudo npm install npm -g
 
-## Usage
+# Usage
 
 Initialize the project with a Grunt task:
 
-	grunt init myProjectName
+	grunt init:myProjectName
 
 This will rename the **undefined.fla** file to **myProjectName.fla**
 
@@ -66,6 +66,11 @@ Contributors are welcome, please fork and send pull requests! If you have any id
 Original code licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) Open Source projects used within this project retain their original licenses.
 
 # Changelog
+### v2.0.0 (January 16, 2016)
+- Include Feathers UI 2.3.0
+- Include Feathers themes
+- New initial dummy project with navigation
+
 ### v1.0.0 (January 12, 2016)
 - Fix yo install version
 
