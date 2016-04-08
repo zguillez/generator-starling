@@ -1,17 +1,17 @@
 {
-	"name": "undefined",
-	"version": "1.0.0",
-	"description": "Starling App",
-	"main": "undefined.fla",
-	"dependencies": {},
-	"devDependencies": {
-		"grunt": "^1.0.1",
-		"grunt-rename": "^0.1.4",
-		"grunt-text-replace": "^0.4.0"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "zguillez.io",
-	"license": "ISC"
+  "name": "undefined",
+  "version": "1.0.0",
+  "description": "Starling App",
+  "main": "undefined.fla",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-rename": "^0.1.4",
+    "grunt-text-replace": "^0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zguillez.io",
+  "license": "ISC"
 }
