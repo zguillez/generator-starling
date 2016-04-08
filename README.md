@@ -1,5 +1,7 @@
 # generator-starling
 
+[![Join the chat at https://gitter.im/zguillez/generator-starling](https://badges.gitter.im/zguillez/generator-starling.svg)](https://gitter.im/zguillez/generator-starling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/generator-starling.svg)](https://badge.fury.io/js/generator-starling)
 [![Build Status](http://img.shields.io/travis/zguillez/generator-starling.svg)](https://github.com/zguillez/generator-starling)
 [![Code Climate](http://img.shields.io/codeclimate/github/zguillez/generator-starling.svg)](https://codeclimate.com/github/zguillez/generator-starling)
