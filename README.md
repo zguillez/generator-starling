@@ -1,5 +1,7 @@
 # generator-starling
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zguillez/generator-starling.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/zguillez/generator-starling](https://badges.gitter.im/zguillez/generator-starling.svg)](https://gitter.im/zguillez/generator-starling?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![npm version](https://badge.fury.io/js/generator-starling.svg)](https://badge.fury.io/js/generator-starling)
