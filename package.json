@@ -51,7 +51,7 @@
     "grunt-contrib-uglify": "~2.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-merge-copy": "^1.0.0",
-    "grunt-open": "^0.2.3",
+    "grunt-open": "^0.2.4",
     "grunt-reload": "^0.2.0",
     "jade": "^1.11.0",
     "jshint-stylish": "^2.2.0",
